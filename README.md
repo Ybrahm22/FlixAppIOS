@@ -15,7 +15,7 @@
 ### Flix App Walkthrough GIF
 
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+<img src="https://github.com/Ybrahm22/FlixAppIOS/blob/main/Walkthrough2.gif" width=250><br>
 
 
 
