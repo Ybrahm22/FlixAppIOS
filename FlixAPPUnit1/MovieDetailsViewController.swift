@@ -31,6 +31,7 @@ class MovieDetailsViewController: UIViewController {
         synopsisLabel.text = movie["overview"] as? String
         synopsisLabel.sizeToFit()
         ratingLabel.text = "Score: \(rating)/10"
+        ratingLabel.sizeToFit()
        
         
         let release = movie["release_date"] as! String
